@@ -1,64 +1,23 @@
 ---
-layout: home
-title: Robert Keeney | Engineering Physics
+layout: default
+title: Robert Keeney
 ---
 
 # Robert Keeney
 
-## Engineering Physics Student | Engineering Design | Aerospace
+### Engineering Physics | Aerospace | Advanced Manufacturing
 
-I am an Engineering Physics student with a strong interest in engineering design, aerospace systems, advanced manufacturing, and the application of emerging technologies to real-world engineering problems.
-
-My goal is to combine physics-based analysis with practical engineering design to develop and improve high-performance systems.
+Engineering Physics student focused on engineering design, experimental measurement, advanced manufacturing, and aerospace systems.
 
 ---
 
 ## About Me
 
-My studies in Engineering Physics allow me to approach engineering problems from both a theoretical and practical perspective. I am particularly interested in understanding how physical principles can be applied to the design, analysis, and improvement of mechanical and aerospace systems.
+I am an Engineering Physics student developing a foundation in physics, mathematics, engineering mechanics, thermodynamics, experimental measurement, and technical problem-solving.
 
-I enjoy working on projects that require analytical thinking, experimentation, problem solving, and attention to detail.
+My interests are centered around **aerospace engineering, advanced manufacturing, mechanical systems, and engineering design**. My long-term goal is to contribute to the development of high-performance engineering systems and eventually design and develop aerospace technologies of my own.
 
----
-
-## Education
-
-**University of Connecticut**  
-Engineering Physics
-
-My coursework and projects have provided experience with physics, mathematics, thermodynamics, experimental methods, engineering analysis, programming, and technical problem solving.
-
----
-
-## Engineering Interests
-
-- Aerospace Engineering
-- Engineering Design
-- Advanced Manufacturing
-- Mechanical Systems
-- Experimental Physics
-- Thermodynamics
-- Engineering Analysis
-- Artificial Intelligence in Engineering
-
----
-
-## Technical Skills
-
-**Engineering & Analysis**
-- Engineering problem solving
-- Mathematical modeling
-- Experimental measurement
-- Data analysis
-- Thermodynamic analysis
-- Technical documentation
-
-**Software & Programming**
-- Python
-- MATLAB
-- Microsoft Excel
-- GitHub
-- Markdown
+This portfolio documents my academic work, technical projects, experiments, and continued development as an engineer.
 
 ---
 
@@ -66,40 +25,74 @@ My coursework and projects have provided experience with physics, mathematics, t
 
 ### Precise Measurement of Local Gravitational Acceleration
 
-Experimental investigation of local gravitational acceleration using a reversible pendulum. The project involves precision measurements, experimental analysis, uncertainty evaluation, and comparison of experimental results with accepted physical values.
+**Physics Experimental Measurement**
 
-[Read the project post →](./2026/10/07/reversible-pendulum/)
+A laboratory investigation using a reversible pendulum to experimentally determine the local acceleration due to gravity.
 
-### Engineering Physics Projects
+**Topics:** Experimental Measurement · Oscillatory Motion · Uncertainty Analysis · Data Analysis
 
-Academic engineering and physics projects involving experimental methods, mathematical analysis, thermodynamics, mechanics, programming, and engineering design.
-
----
-
-## Career Goals
-
-My long-term goal is to work in advanced engineering and manufacturing environments where I can contribute to the design and development of high-performance systems.
-
-I am particularly interested in aerospace, propulsion, advanced manufacturing, and engineering technologies that combine physics, mechanical design, and emerging computational tools.
+[View Project →]({{ '/posts/reversible-pendulum/' | relative_url }})
 
 ---
 
-## What I Am Looking For
+### Engineering Physics Journey
 
-I am interested in opportunities that allow me to develop my engineering skills through hands-on design, analysis, experimentation, and collaboration.
+A collection of experiences, coursework, projects, and technical development throughout my Engineering Physics education.
 
-I am especially interested in:
+**Topics:** Engineering Physics · Technical Development · Career Development
 
-- Engineering internships
-- Aerospace engineering opportunities
-- Advanced manufacturing
-- Engineering design
-- Research opportunities
-- Graduate study in engineering or related fields
-- Construction 
+[View My Journey →]({{ '/posts/engineering-physics-journey/' | relative_url }})
+
+---
+
+## Technical Interests
+
+- Aerospace Engineering
+- Advanced Manufacturing
+- Mechanical Systems
+- Engineering Design
+- Experimental Physics
+- Data Analysis
+- Computational Methods
+- Materials and Manufacturing
+- High-Performance Systems
+- Construction
+
+---
+
+## Engineering Education
+
+### Engineering Physics
+
+My Engineering Physics education combines fundamental physics with practical engineering principles, providing a foundation for understanding and designing complex physical systems.
+
+Relevant areas of study include:
+
+- Mechanics
+- Thermodynamics
+- Electricity and Magnetism
+- Quantum Mechanics
+- Engineering Materials
+- Experimental Physics
+- Engineering Design
+- Mathematics and Computational Methods
+- Construction
+
+---
+
+## Career Interests
+
+I am particularly interested in opportunities involving:
+
+**Aerospace · Advanced Manufacturing · Mechanical Systems · Engineering Design · Research & Development**
+
+My long-term goal is to work on advanced engineering systems and eventually apply that experience toward developing my own engineering technologies and products.
+
 ---
 
 ## Contact
+
+I am always interested in connecting with engineers, researchers, companies, and other students working in engineering, aerospace, manufacturing, and related fields.
 
 **GitHub:** [Keeney-55](https://github.com/Keeney-55)
 
