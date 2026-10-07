@@ -3,13 +3,15 @@ layout: default
 title: Robert Keeney
 ---
 
+<div class="hero">
+
 # Robert Keeney
 
-### Engineering Physics | Aerospace | Advanced Manufacturing
+## Engineering Physics | Aerospace | Advanced Manufacturing
 
 Engineering Physics student focused on engineering design, experimental measurement, advanced manufacturing, and aerospace systems.
 
----
+</div>
 
 ## About Me
 
@@ -23,6 +25,10 @@ This portfolio documents my academic work, technical projects, experiments, and 
 
 ## Featured Projects
 
+<div class="project-grid">
+
+<div class="project-card">
+
 ### Precise Measurement of Local Gravitational Acceleration
 
 **Physics Experimental Measurement**
@@ -33,7 +39,9 @@ A laboratory investigation using a reversible pendulum to experimentally determi
 
 [View Project →]({{ '/posts/reversible-pendulum/' | relative_url }})
 
----
+</div>
+
+<div class="project-card">
 
 ### Engineering Physics Journey
 
@@ -43,20 +51,27 @@ A collection of experiences, coursework, projects, and technical development thr
 
 [View My Journey →]({{ '/posts/engineering-physics-journey/' | relative_url }})
 
+</div>
+
+</div>
+
 ---
 
 ## Technical Interests
 
-- Aerospace Engineering
-- Advanced Manufacturing
-- Mechanical Systems
-- Engineering Design
-- Experimental Physics
-- Data Analysis
-- Computational Methods
-- Materials and Manufacturing
-- High-Performance Systems
-- Construction
+<div class="skills">
+
+<span class="skill">Aerospace Engineering</span>
+<span class="skill">Advanced Manufacturing</span>
+<span class="skill">Mechanical Systems</span>
+<span class="skill">Engineering Design</span>
+<span class="skill">Experimental Physics</span>
+<span class="skill">Data Analysis</span>
+<span class="skill">Computational Methods</span>
+<span class="skill">Materials & Manufacturing</span>
+<span class="skill">High-Performance Systems</span>
+
+</div>
 
 ---
 
@@ -76,7 +91,6 @@ Relevant areas of study include:
 - Experimental Physics
 - Engineering Design
 - Mathematics and Computational Methods
-- Construction
 
 ---
 
@@ -92,8 +106,8 @@ My long-term goal is to work on advanced engineering systems and eventually appl
 
 ## Contact
 
-I am always interested in connecting with engineers, researchers, companies, and other students working in engineering, aerospace, manufacturing, and related fields.
+I am interested in connecting with engineers, researchers, companies, and other students working in engineering, aerospace, manufacturing, and related fields.
 
 **GitHub:** [Keeney-55](https://github.com/Keeney-55)
 
-**Email:** robert.keeney@uconn.edu
+**Email:** [robert.keeney@uconn.edu](mailto:robert.keeney@uconn.edu)
