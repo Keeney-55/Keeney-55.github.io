@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Precise Measurement of Local Gravitational Acceleration Using a Reversible Pendulum"
+title: Precise Measurement of Local Gravitational Acceleration Using a Reversible Pendulum
 date: 2026-10-07
 categories: physics experimental-measurement
+permalink: /posts/reversible-pendulum/
 ---
 
 # Precise Measurement of Local Gravitational Acceleration Using a Reversible Pendulum
