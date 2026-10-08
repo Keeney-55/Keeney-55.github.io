@@ -6,8 +6,6 @@ categories: physics experimental-measurement
 permalink: /posts/reversible-pendulum/
 ---
 
-# Precise Measurement of Local Gravitational Acceleration Using a Reversible Pendulum
-
 ## Project Overview
 
 One of the laboratory projects in my physics coursework involved determining the local acceleration due to gravity using a reversible pendulum.
