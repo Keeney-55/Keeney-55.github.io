@@ -56,7 +56,7 @@ and continued development as an engineer.
     </p>
 
     <p>
-      <a href="{{ '/posts/reversible-pendulum/' | relative_url }}">
+      <a href="{% post_url 2026-10-07-reversible-pendulum %}">
         View Project →
       </a>
     </p>
@@ -78,7 +78,7 @@ and continued development as an engineer.
     </p>
 
     <p>
-      <a href="{{ '/posts/engineering-physics-journey/' | relative_url }}">
+      <a href="{% post_url 2026-10-07-engineering-physics-journey %}">
         View My Journey →
       </a>
     </p>
