@@ -5,8 +5,6 @@ date: 2026-10-07
 categories: engineering physics
 ---
 
-# My Engineering Physics Journey
-
 ## Why Engineering Physics?
 
 Engineering Physics combines the mathematical and scientific foundations of physics with the practical problem-solving approach of engineering. That combination is what initially attracted me to the field.
